@@ -1,4 +1,5 @@
 @echo off
+color 01
 chcp 65001
 title Simple Tool Tutorial
 :MENU
