@@ -6,7 +6,7 @@ title Multi-Tool
 color D
 
 rem Set your password/key here
-set "password=simpleKEY"
+set "password=YOURKEYHERE"
 
 :login
 cls
